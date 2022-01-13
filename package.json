@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-ti",
+  "version": "1.0.0",
+  "description": "Help desk de CIHumana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CIH",
+    "JS",
+    "HTML",
+    "CSS",
+    "EXPRESS"
+  ],
+  "author": "Jose | joseantonio230299@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "emysql": "0.0.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.1",
+    "handlebars": "^4.7.7"
+  }
+}
