@@ -4,7 +4,7 @@
   "description": "Help desk de CIHumana",
   "main": "index.js",
   "scripts": {
-    "start":"node src/index.js",
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -18,9 +18,9 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "emysql": "0.0.2",
     "express": "^4.17.1",
     "express-handlebars": "^6.0.1",
-    "handlebars": "^4.7.7"
+    "handlebars": "^4.7.7",
+    "mysql": "^2.18.1"
   }
 }
